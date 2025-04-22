@@ -6,7 +6,7 @@
     <title>Halaman About</title>
 </head>
 <body>
-    <H1>Ini Halaman About</H1>
-    <a href="{{ url() }}">home</a>
+    <h1>Ini Halaman About</h1>
+    <a href="/">home</a>
 </body>
 </html>
